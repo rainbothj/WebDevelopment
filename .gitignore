@@ -1,0 +1,22 @@
+# --- Windows metadata ---
+*.Zone.Identifier
+Thumbs.db
+Desktop.ini
+
+# --- macOS metadata (if you ever switch) ---
+.DS_Store
+
+# --- VS Code ---
+.vscode/
+
+# --- Live Server or extensions config ---
+*.tmp
+*.log
+
+# --- Node.js (if you get into JS tooling later) ---
+node_modules/
+npm-debug.log
+
+# --- Ignore zip files and extracted temp data ---
+*.zip
+__MACOSX/
